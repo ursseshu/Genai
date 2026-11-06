@@ -1,0 +1,26 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Node.js
+node_modules/
+
+# Environment variables
+.env
+.env.*
+
+# Machine Learning models
+*.pth
+*.pt
+*.pkl
+
+# Vector database
+.chroma_data/
+
+# SQLite databases
+*.sqlite3
+*.db
+
+# IDE
+.vscode/
